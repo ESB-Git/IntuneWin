@@ -9,7 +9,7 @@ The `.intunewin` files are published in GitHub Releases.
 ## Applications
 
 - Autogram
-- eID Klient
+- eID Klient -> https://github.com/ESB-Git/IntuneWin/releases/tag/eid-klient-v5.3.0
 - DISIG Web Signer
 - D.Suite 2
 
