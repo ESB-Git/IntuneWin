@@ -1,6 +1,6 @@
 # IntuneWin
 
-Microsoft Intune Win32 application packages and documentation.
+Microsoft Intune Win32 application packages and documentation created by ESB s.r.o https://esb.sk/ .
 
 ## Packages
 
