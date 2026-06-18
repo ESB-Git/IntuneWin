@@ -24,3 +24,15 @@ The `.intunewin` files are published in GitHub Releases.
 7. Configure install/uninstall commands.
 8. Configure detection rules.
 9. Assign to a test group first.
+
+## Disclaimer
+
+This repository is an open-source community-maintained collection of Microsoft Intune Win32 deployment documentation, manifests, detection scripts, and packaging guidance.
+
+The deployment templates, documentation, and scripts provided in this repository are intended to help IT administrators package and deploy applications through Microsoft Intune.
+
+This repository is not an official distribution channel for the listed applications and is not affiliated with, endorsed by, or maintained by the original software vendors, unless explicitly stated otherwise.
+
+All product names, trademarks, and software belong to their respective owners.
+
+The maintainers of this repository provide the content "as is", without warranty of any kind. Always test packages in a pilot group before deploying them to production devices.
