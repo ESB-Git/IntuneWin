@@ -4,7 +4,7 @@ Microsoft Intune Win32 application packages and documentation created by ESB s.r
 
 ## Packages
 
-The `.intunewin` files are published in GitHub Releases.
+The `.intunewin` and `Source Code` files are published in GitHub Releases.
 
 ## Applications
 
