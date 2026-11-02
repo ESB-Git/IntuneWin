@@ -9,9 +9,9 @@ The `.intunewin` and `Source Code` files are published in GitHub Releases.
 ## Applications
 
 - Autogram          -> https://github.com/ESB-Git/IntuneWin/releases/tag/autogram-v2.8.3
-- eID Klient        -> https://github.com/ESB-Git/IntuneWin/releases/tag/eid-klient-v5.3.0
-- DISIG Web Signer  -> https://github.com/ESB-Git/IntuneWin/releases/tag/disig-web-signer-v2.5.5
-- D.Suite 2         -> https://github.com/ESB-Git/IntuneWin/releases/tag/dsuite-eidas-v2.0.7
+- eID Klient        -> https://github.com/ESB-Git/IntuneWin/releases/tag/eid-klient-v5.4.0
+- DISIG Web Signer  -> https://github.com/ESB-Git/IntuneWin/releases/tag/disig-web-signer-v2.6.1
+- D.Suite 2         -> https://github.com/ESB-Git/IntuneWin/releases/tag/dsuite-eidas-v2.0.9
 
 ## How to import to Intune
 
